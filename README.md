@@ -4,5 +4,8 @@
 
 3. we use here Next.js,tailwind css,react.toastify,typeScript,daisyUi,Next.js image.......
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c59536c (Project is done)
 4. We can see a exersice library there have info about 12 exersice,,,,we can see the details one by one and can send the my plan page.,,,,,,,We ca ewplace that in my plan or save for later,,,,,,,,,,We can mark the exersice and also delete this easily,,,,,,,,,,,,, We can see dato in Responsive design like:mobile,tab,Desktop
